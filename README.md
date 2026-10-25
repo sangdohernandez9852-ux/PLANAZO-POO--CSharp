@@ -282,7 +282,7 @@ Usuarios iniciales:
 | 6 | Evento inexistente | Opción 2, evento 999 | Mensaje “No existe un evento” | [Ver](Capturas/caso-06-evento-inexistente.png) |
 | 7 | Precios por tipo | Opción 1 | Se muestran los precios finales correctos de los cuatro tipos | [Ver](Capturas/caso-07-precios-por-tipo.png) |
 
-La guía detallada para tomar las capturas está en [`Capturas/README.md`](Capturas/README.md).
+
 
 ### Evidencia de los casos de prueba
 
@@ -430,5 +430,5 @@ La ventaja principal se vio al agregar `EventoDeportivo`: solo se creó una nuev
 
 ## Autor
 
-Sebastián López  
+Sangdo Hernandez 
 Parcial de Programación Orientada a Objetos
